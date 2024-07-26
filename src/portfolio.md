@@ -1,24 +1,32 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
+title: Mainpage of CIC-CoreStaff
 icon: home
-welcome: 👋 你好，我是
-name: 江户川柯南
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
+welcome: Here is the brief intro of CIC-CoreStaff
+name: CIC-核心骨干成员
 
 titles:
-  - 天才少年侦探
-  - 小兰的青梅竹马
-  - 黑衣组织的最大对手
+  - 不限制毕业与否
+  - 需在社团线上/线下活动中作为主力人物之一
+  - 校园网络的最大迫害者
 
-footer: false
 ---
 
-## 介绍
+## Intro
 
-这是一个档案主页的案例。
+CIC-核心骨干成员需要具备一定程度的技术能力和折腾能力。
 
-要使用此布局，你应该在页面 Frontmatter 中设置 `home: true` 和 `portfolio: true`。
+该身份并不会受到毕业与否的影响。
 
-相关配置文档请见 [档案主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html#档案类型主页)。
+作为应届核心骨干成员，应当在各类活动中有能力，有意愿主动代表社团。
+
+## 加入方法
+
+考察制度，由上一届核心骨干成员考察。
+
+邀请制度，多位核心成员推荐或某届技术负责人/社长邀请。
+
+## 未完待续
+
+
