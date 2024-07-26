@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://wiki.cic.cab",
+  hostname: "https://vuepress.cic.cab",
 
   author: {
     name: "CIC-CoreStaff",
