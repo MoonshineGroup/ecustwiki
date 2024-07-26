@@ -4,18 +4,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://wiki.cic.cab",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "CIC-CoreStaff",
+    url: "https://wiki.cic.cab",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "MooneShine/ecustwiki",
 
   docsDir: "src",
 
@@ -26,20 +26,20 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: <a href="https://www.beian.gov.cn"> 沪ICP备2021021416号-2 </a>,
   displayFooter: true,
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+//  encrypt: {
+//    config: {
+//      "/demo/encrypt.html": ["1234"],
+//    },
+//  },
 
   // 多语言配置
-  metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
-  },
+//  metaLocales: {
+//    editLink: "在 GitHub 上编辑此页",
+//  },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
@@ -104,13 +104,13 @@ export default hopeTheme({
       // flowchart: true,
 
       // gfm requires mathjax-full to provide tex support
-      // gfm: true,
+      gfm: true,
 
       // 在启用之前安装 katex
       // katex: true,
 
       // 在启用之前安装 mathjax-full
-      // mathjax: true,
+      mathjax: true,
 
       // 在启用之前安装 mermaid
       // mermaid: true,
