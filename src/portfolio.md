@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-title: Mainpage of CIC-CoreStaff
+title: CIC-CoreStaff
 icon: home
 welcome: Here is the brief intro of CIC-CoreStaff
 name: CIC-核心骨干成员
@@ -23,9 +23,9 @@ CIC-核心骨干成员需要具备一定程度的技术能力和折腾能力。
 
 ## 加入方法
 
-考察制度，由上一届核心骨干成员考察。
+- 考察制度：由上一届核心骨干成员考察。
 
-邀请制度，多位核心成员推荐或某届技术负责人/社长邀请。
+- 邀请制度：多位核心成员推荐或某届技术负责人/社长邀请。
 
 ## 未完待续
 

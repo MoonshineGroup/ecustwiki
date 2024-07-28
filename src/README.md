@@ -7,16 +7,17 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: Another Wiki for ECUST by CIC
+tagline: 花梨的另一个Wiki站点
 actions:
-  - text: 使用指南
+  - text: 学校官网
     icon: lightbulb
-    link: ./demo/
+    link: https://ecust.edu.cn/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 加入CIC
+    icon: laptop-code
+    link: https://qm.qq.com/cgi-bin/qm/qr?k=Q7PCDetf3uAePA6hDofh-79nMAvSgRlF&jump_from=webapi&authKey=HVU5z5YP/JIlDAXwkfzx4ojs3wVAH9N3BS2n0CvheXLqKag4/Pb6gZCHWuqIl4nO
 
 highlights:
   - header: 易于安装
